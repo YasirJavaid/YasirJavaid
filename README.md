@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasir Javaid</h1>
-<h3 align="center">A passionate Full stack developer from Pakistan</h3>
+<h3 align="center">A passionate I.T Researcher from Pakistan</h3>
 
 <div align="left" >
   <img src="https://techsabrii.com/storage/yasi.javaid.jpg" alt="Yasir Javaid" width="250" height="250" >
@@ -7,16 +7,16 @@
 
 
 
-- 🔭 I’m currently working on [Hybrid Technology Hub with UPR](https://github.com/techsabrii/html-Practices-NOV-2024-badge)
+- 🔭 I’m currently working at GCT & Also a researcher in UPR(University Of Poonch)
 
-- 👯 I’m looking to collaborate on *Full Stack Projects*
+- 👯 I’m looking to collaborate on *Researches & Inovations*
 
 - 📫 How to reach me *dev@ts-developers.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/29138926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29138926" height="30" width="40" /></a>
-<a href="https://fb.com/basitsabrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="basitsabrii" height="30" width="40" /></a>
+<a href="https://fb.com/yasirjavaid123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasirjavaid123" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@ts-developers-g3y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ts-developers-g3y" height="30" width="40" /></a>
 </p>
 
